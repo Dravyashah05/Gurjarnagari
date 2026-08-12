@@ -1,0 +1,6 @@
+{
+  "name": "ગૂર્જરનગરી Express - 2000s Bus Journey",
+  "description": "A nostalgic single-page website dedicated to the 2000s Gurjarnagari Gujarat bus journey with memories, audio, and interactive bus visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
